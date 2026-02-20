@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Project specific
+memory.json
+data/
+chroma_db/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# IDE
+.vscode/
+.idea/
+*.swp
