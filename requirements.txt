@@ -1,0 +1,9 @@
+ollama
+langchain
+chromadb
+sentence-transformers
+gradio
+pypdf
+SpeechRecognition
+pyttsx3
+customtkinter
